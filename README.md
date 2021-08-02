@@ -1,5 +1,6 @@
 # Crypto
-Cipher.ipynb - Contains PLayfair, Hill, Vernam, Vigenere ciphers and Single letter frequency attack of caesar cipher
+Various programs done as part of Cryptography Fundamentals course
+Cipher.ipynb - Contains Playfair, Hill, Vernam, Vigenere ciphers and Single letter frequency attack of caesar cipher
 
 DES & AES.ipynb - Contains DES and AES code from scratch
 
